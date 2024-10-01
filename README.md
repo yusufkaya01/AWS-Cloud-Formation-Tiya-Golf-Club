@@ -1,6 +1,6 @@
 # AWS-Cloud-Formation-Tiya-Golf-Club
-# init.yaml is teh final version of the project
-# You can upload init.yaml file to CloudFormation
+# CloudFormation.yaml is teh final version of the project
+# You can upload CloudFormation.yaml file to CloudFormation
 # This file will detect the region you are in and accordin to the region, it will use the AMI_ID for
 #  that specific region
 # This file uses only Amazon Linux 2, you can change the ami IDs depending on your needs
